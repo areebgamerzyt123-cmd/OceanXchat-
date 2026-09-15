@@ -1,0 +1,6 @@
+{
+  "name": "OceanXChat",
+  "description": "Native Android messaging, group chat, and WebRTC voice & video calling app migrated from OceanClient HTML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
